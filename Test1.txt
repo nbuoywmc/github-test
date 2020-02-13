@@ -1,2 +1,6 @@
 This is Test1
+<<<<<<< HEAD
 add function
+=======
+I am superman
+>>>>>>> master
